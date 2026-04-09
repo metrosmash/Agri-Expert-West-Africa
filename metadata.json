@@ -1,0 +1,5 @@
+{
+  "name": "Agri-Expert West Africa",
+  "description": "AI-powered agricultural extension for smallholder farmers in West Africa. Multimodal crop diagnosis, climate-smart scheduling, and multilingual support.",
+  "requestFramePermissions": ["camera"]
+}
